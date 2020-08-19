@@ -1,0 +1,108 @@
+div#container
+{
+   width: 480px;
+   position: relative;
+   margin: 0 auto 0 auto;
+   text-align: left;
+}
+body
+{
+   background-color: #FFFFFF;
+   color: #000000;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   text-align: center;
+}
+#wb_Form1
+{
+   background-color: #FFFFFF;
+   border: 0px #000000 solid;
+}
+#wb_Text6
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text6 div
+{
+   text-align: center;
+}
+#Editbox1
+{
+   border: 1px #A9A9A9 solid;
+   -moz-border-radius: 5px;
+   -webkit-border-radius: 5px;
+   border-radius: 5px;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-weight: normal;
+   font-size: 17px;
+   padding: 5px 10px 5px 10px;
+   text-align: left;
+   vertical-align: middle;
+}
+#Editbox2
+{
+   border: 1px #A9A9A9 solid;
+   -moz-border-radius: 5px;
+   -webkit-border-radius: 5px;
+   border-radius: 5px;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-weight: normal;
+   font-size: 17px;
+   padding: 5px 10px 5px 10px;
+   text-align: left;
+   vertical-align: middle;
+}
+#Button3
+{
+   border: 0px #5B0000 solid;
+   -moz-border-radius: 5px;
+   -webkit-border-radius: 5px;
+   border-radius: 5px;
+   background-color: transparent;
+   background-image: url(images/vopros_Button3_bkgrnd.png);
+   background-repeat: repeat-x;
+   background-position: left top;
+   color: #FFFFFF;
+   font-weight: normal;
+   font-size: 24px;
+}
+#Editbox3
+{
+   border: 1px #A9A9A9 solid;
+   -moz-border-radius: 5px;
+   -webkit-border-radius: 5px;
+   border-radius: 5px;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-weight: normal;
+   font-size: 17px;
+   padding: 5px 10px 5px 10px;
+   text-align: left;
+   vertical-align: middle;
+}
+#TextArea1
+{
+   border: 1px #A9A9A9 solid;
+   -moz-border-radius: 5px;
+   -webkit-border-radius: 5px;
+   border-radius: 5px;
+   background-color: #FFFFFF;
+   color :#000000;
+   font-weight: normal;
+   font-size: 17px;
+   padding: 10px 5px 5px 10px;
+   text-align: left;
+   resize: none;
+}
+#Button3:hover {opacity:0.9;}
+input, textarea {
+   font-family: Fregat;
+}

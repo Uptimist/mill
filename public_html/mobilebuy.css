@@ -1,0 +1,222 @@
+div#container
+{
+   width: 320px;
+   position: relative;
+   margin: 0 auto 0 auto;
+   text-align: left;
+}
+body
+{
+   background-color: #FFFFFF;
+   color: #000000;
+   font-family: Fregat;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   text-align: center;
+}
+#Shape1
+{
+   border-width: 0;
+}
+#Layer2
+{
+   background-color: transparent;
+   background-image: url(images/photo-333.jpg);
+   background-repeat: repeat;
+   background-position: center center;
+}
+#wb_Text5 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text5 div
+{
+   text-align: center;
+}
+#Image1
+{
+   border: 0px #000000 solid;
+   position: absolute;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Shape22 a img
+{
+   position: absolute;
+}
+#wb_Shape22 span
+{
+   position: absolute;
+}
+#wb_Shape22 a .hover
+{
+   visibility: hidden;
+}
+#wb_Shape22 a:hover .hover
+{
+   visibility: visible;
+}
+#wb_Shape22 a:hover span
+{
+   visibility: hidden;
+}
+#Shape22
+{
+   border-width: 0;
+}
+#wb_Text2 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text2 div
+{
+   text-align: left;
+}
+#Layer17
+{
+   background-color: #FFFFFF;
+}
+#Image39
+{
+   border: 0px #000000 solid;
+   position: absolute;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image41
+{
+   border: 0px #000000 solid;
+   position: absolute;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image42
+{
+   border: 0px #000000 solid;
+   position: absolute;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image43
+{
+   border: 0px #000000 solid;
+   position: absolute;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Text58 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text58 div
+{
+   text-align: left;
+}
+#wb_Text59 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text59 div
+{
+   text-align: left;
+}
+#wb_Text60 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text60 div
+{
+   text-align: left;
+}
+#wb_Text57 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text57 div
+{
+   text-align: left;
+}
+#wb_Text61 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text61 div
+{
+   text-align: center;
+}
+#wb_Text4 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text4 div
+{
+   text-align: left;
+}
+#wb_Text7 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text7 div
+{
+   text-align: center;
+}
+#Image2
+{
+   border: 0px #000000 solid;
+   position: absolute;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Text5 span, #wb_Text4 span {
+    background: rgba(255,255,255,0.85);
+}

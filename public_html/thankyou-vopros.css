@@ -1,0 +1,48 @@
+div#container
+{
+   width: 960px;
+   position: relative;
+   margin: 0 auto 0 auto;
+   text-align: left;
+}
+body
+{
+   background-color: #FFFFFF;
+   color: #000000;
+   font-family: Fregat;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   text-align: center;
+}
+#Layer1
+{
+   background-color: transparent;
+   background-image: url(images/ty.jpg);
+   background-repeat: repeat-x;
+   background-position: center top;
+}
+#Layer2
+{
+   background-color: #FFFFFF;
+   filter: alpha(opacity=70);
+   opacity: 0.70;
+}
+#Layer3
+{
+   background-color: transparent;
+}
+#wb_Text15 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text15 div
+{
+   text-align: center;
+}
+body {overflow:hidden;}

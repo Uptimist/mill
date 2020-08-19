@@ -1,0 +1,1888 @@
+div#container {
+    width: 960px;
+    position: relative;
+    margin: 0 auto 0 auto;
+    text-align: left;
+}
+
+body {
+    background-color: #FFFFFF;
+    color: #000000;
+    font-family: Fregat;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 1.1875;
+    margin: 0;
+    text-align: center;
+}
+
+input {
+    font-family: Fregat;
+}
+
+#Layer19 {
+    background-color: #FAFAFA;
+}
+
+#Layer26 {
+    background-color: #FFFFFF;
+}
+
+#Layer8 {
+    background-color: #FFFFFF;
+}
+
+#Layer24 {
+    background-color: #FFFFFF;
+}
+
+#Layer2 {
+    background-color: transparent;
+    background-image: url(images/hp_background.jpg);
+    background-repeat: repeat;
+    background-position: center top;
+    background-size: cover;
+}
+
+#Image1 {
+    border: 0px #000000 solid;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#wb_Text3 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+
+#wb_Text3 div {
+    text-align: left;
+}
+
+#wb_Text4 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+#wb_Text4 div {
+    text-align: center;
+}
+
+#Layer1 {
+    background-color: transparent;
+}
+
+#Layer4 {
+    background-color: #FFFFFF;
+}
+
+#Layer3 {
+    background-color: transparent;
+}
+
+#Shape1 {
+    border-width: 0;
+}
+
+#Layer5 {
+    background-color: transparent;
+}
+
+#wb_Text5 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+#wb_Text5 div {
+    text-align: center;
+}
+
+#wb_Text2 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+
+#wb_Text2 div {
+    text-align: left;
+}
+
+#wb_Text7 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+
+#wb_Text7 div {
+    text-align: left;
+}
+
+#wb_Text9 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+
+#wb_Text9 div {
+    text-align: left;
+}
+
+#wb_Text6 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+#wb_Text6 div {
+    text-align: center;
+}
+
+#Layer9 {
+    background-color: transparent;
+}
+
+#Layer10 {
+    background-color: transparent;
+}
+
+#Layer11 {
+    background-color: transparent;
+}
+
+#Layer12 {
+    background-color: transparent;
+}
+
+#Layer13 {
+    background-color: transparent;
+}
+
+#Layer14 {
+    background-color: transparent;
+}
+
+#wb_Text10 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+#wb_Text10 div {
+    text-align: center;
+}
+
+#wb_Text11 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+#wb_Text11 div {
+    text-align: center;
+}
+
+#wb_Text12 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+#wb_Text12 div {
+    text-align: center;
+}
+
+#wb_Text13 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+#wb_Text13 div {
+    text-align: center;
+}
+
+#wb_Text14 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+#wb_Text14 div {
+    text-align: center;
+}
+
+#Image4 {
+    border: 0px #000000 solid;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#Image5 {
+    border: 0px #000000 solid;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#Image6 {
+    border: 0px #000000 solid;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#Image7 {
+    border: 0px #000000 solid;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#Image8 {
+    border: 0px #000000 solid;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#wb_Shape3 a img {
+    position: absolute;
+}
+
+#wb_Shape3 span {
+    position: absolute;
+}
+
+#wb_Shape3 a .hover {
+    visibility: hidden;
+}
+
+#wb_Shape3 a:hover .hover {
+    visibility: visible;
+}
+
+#wb_Shape3 a:hover span {
+    visibility: hidden;
+}
+
+#Shape3 {
+    border-width: 0;
+}
+
+#wb_Text1 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+
+#wb_Text1 div {
+    text-align: left;
+}
+
+#wb_Text26 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+
+#wb_Text26 div {
+    text-align: left;
+}
+
+#Layer20 {
+    background-color: #FAFAFA;
+}
+
+#Layer23 {
+    background-color: transparent;
+}
+
+#wb_Text29 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: right;
+}
+
+#wb_Text29 div {
+    text-align: right;
+}
+
+#wb_Text30 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+
+#wb_Text30 div {
+    text-align: left;
+}
+
+#Layer25 {
+    background-color: #FFFFFF;
+}
+
+#wb_Text40 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+#wb_Text40 div {
+    text-align: center;
+}
+
+#Layer28 {
+    background-color: transparent;
+    background-image: url(images/bread_back.jpg);
+    background-repeat: repeat;
+    background-position: center 30%;
+    background-size: cover;
+}
+
+#wb_Text31 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+#wb_Text31 div {
+    text-align: center;
+}
+
+#wb_Text15 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+#wb_Text15 div {
+    text-align: center;
+}
+
+#wb_Text24 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+
+#wb_Text24 div {
+    text-align: left;
+}
+
+#wb_Text39 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+
+#wb_Text39 div {
+    text-align: left;
+}
+
+#wb_Text25 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+
+#wb_Text25 div {
+    text-align: left;
+}
+
+#Layer15 {
+    background-color: transparent;
+}
+
+#Image12 {
+    border: 0px #000000 solid;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#Image25 {
+    border: 0px #000000 solid;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#Image29 {
+    border: 0px #000000 solid;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#Image30 {
+    border: 0px #000000 solid;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#wb_Text8 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+#wb_Text8 div {
+    text-align: center;
+}
+
+#wb_Text16 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+#wb_Text16 div {
+    text-align: center;
+}
+
+#wb_Text17 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+#wb_Text17 div {
+    text-align: center;
+}
+
+#wb_Text18 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+#wb_Text18 div {
+    text-align: center;
+}
+
+#Shape9 {
+    border-width: 0;
+}
+
+#Image31 {
+    border: 0px #000000 solid;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#Shape10 {
+    border-width: 0;
+}
+
+#Shape11 {
+    border-width: 0;
+}
+
+#Shape12 {
+    border-width: 0;
+}
+
+#Shape13 {
+    border-width: 0;
+}
+
+#Image32 {
+    border: 0px #000000 solid;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#Image33 {
+    border: 0px #000000 solid;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#Image34 {
+    border: 0px #000000 solid;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#Image37 {
+    border: 0px #000000 solid;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#wb_Text19 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+#wb_Text19 div {
+    text-align: center;
+}
+
+#wb_Text20 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+#wb_Text20 div {
+    text-align: center;
+}
+
+#wb_Text38 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+#wb_Text38 div {
+    text-align: center;
+}
+
+#Editbox7 {
+    border: 1px #A9A9A9 solid;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    background-color: #FFFFFF;
+    color: #000000;
+
+    font-weight: normal;
+    font-size: 19px;
+    padding: 5px 5px 5px 10px;
+    text-align: left;
+    vertical-align: middle;
+}
+
+#Editbox8 {
+    border: 1px #A9A9A9 solid;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    background-color: #FFFFFF;
+    color: #000000;
+
+    font-weight: normal;
+    font-size: 19px;
+    padding: 5px 5px 5px 10px;
+    text-align: left;
+    vertical-align: middle;
+}
+
+#Editbox9 {
+    border: 1px #A9A9A9 solid;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    background-color: #FFFFFF;
+    color: #000000;
+
+    font-weight: normal;
+    font-size: 19px;
+    padding: 5px 5px 5px 10px;
+    text-align: left;
+    vertical-align: middle;
+}
+
+#Button3 {
+    border: 0px #5B0000 solid;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    background-color: transparent;
+    background-image: url(images/index_Button3_bkgrnd.png);
+    background-repeat: repeat-x;
+    background-position: left top;
+    color: #FFFFFF;
+
+    font-weight: normal;
+    font-size: 19px;
+}
+
+#Layer29 {
+    background-color: #FFFFFF;
+    -moz-box-shadow: 0px 0px 3px #808080;
+    -webkit-box-shadow: 0px 0px 3px #808080;
+    box-shadow: 0px 0px 3px #808080;
+    filter: alpha(opacity=85);
+    opacity: 0.4;
+}
+
+#wb_Form3 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+}
+
+#Layer27 {
+    background-color: #FFFFFF;
+}
+
+#Layer32 {
+    background-color: transparent;
+    background-image: url(images/features_back.jpg);
+    background-repeat: repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#Layer34 {
+    background-color: transparent;
+    background-image: url(images/price_back.jpg);
+    background-repeat: repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#Layer35 {
+    background-color: #FFFFFF;
+}
+
+#Layer37 {
+    background-color: transparent;
+}
+
+#wb_Form1 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+}
+
+#Editbox1 {
+    border: 1px #A9A9A9 solid;
+    background-color: #FFFFFF;
+    color: #000000;
+
+    font-weight: normal;
+    font-size: 21px;
+    padding: 5px 5px 5px 10px;
+    text-align: left;
+    vertical-align: middle;
+}
+
+#Editbox2 {
+    border: 1px #A9A9A9 solid;
+    background-color: #FFFFFF;
+    color: #000000;
+
+    font-weight: normal;
+    font-size: 21px;
+    padding: 5px 5px 5px 10px;
+    text-align: left;
+    vertical-align: middle;
+}
+
+#Button1 {
+    border: 0px #FF4500 solid;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    background-color: transparent;
+    background-image: url(images/index_Button1_bkgrnd.png);
+    background-repeat: repeat-x;
+    background-position: left top;
+    color: #FFFFFF;
+
+    font-weight: normal;
+    font-size: 21px;
+}
+
+#Editbox3 {
+    border: 1px #A9A9A9 solid;
+    background-color: #FFFFFF;
+    color: #000000;
+
+    font-weight: normal;
+    font-size: 21px;
+    padding: 5px 5px 5px 10px;
+    text-align: left;
+    vertical-align: middle;
+}
+
+#wb_Text27 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+
+#wb_Text27 div {
+    text-align: left;
+}
+
+#wb_Text28 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+
+#wb_Text28 div {
+    text-align: left;
+}
+
+#wb_Text42 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+
+#wb_Text42 div {
+    text-align: left;
+}
+
+#Image10 {
+    border: 0px #000000 solid;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#Image11 {
+    border: 0px #000000 solid;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#Image35 {
+    border: 0px #000000 solid;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#Image38 {
+    border: 0px #000000 solid;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#wb_Text44 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+
+#wb_Text44 div {
+    text-align: left;
+}
+
+#wb_Text45 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+
+#wb_Text45 div {
+    text-align: left;
+}
+
+#wb_Text46 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+
+#wb_Text46 div {
+    text-align: left;
+}
+
+#wb_Text47 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+
+#wb_Text47 div {
+    text-align: left;
+}
+
+#wb_Text48 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+
+#wb_Text48 div {
+    text-align: left;
+}
+
+#Layer33 {
+    background-color: #000000;
+    filter: alpha(opacity=30);
+    opacity: 0.30;
+}
+
+#wb_Shape2 a img {
+    position: absolute;
+}
+
+#wb_Shape2 span {
+    position: absolute;
+}
+
+#wb_Shape2 a .hover {
+    visibility: hidden;
+}
+
+#wb_Shape2 a:hover .hover {
+    visibility: visible;
+}
+
+#wb_Shape2 a:hover span {
+    visibility: hidden;
+}
+
+#Shape2 {
+    border-width: 0;
+}
+
+#Shape6 {
+    border-width: 0;
+}
+
+#Image40 {
+    border: 0px #000000 solid;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#Image27 {
+    border: 0px #000000 solid;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#Image26 {
+    border: 0px #000000 solid;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#Image28 {
+    border: 0px #000000 solid;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#Layer36 {
+    background-color: #FFFFFF;
+    background-image: url(images/loop.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#Shape8 {
+    border-width: 0;
+}
+
+#Layer38 {
+    background-color: #FFFFFF;
+    background-image: url(images/loop.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#Layer39 {
+    background-color: #FFFFFF;
+    background-image: url(images/loop.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#Shape14 {
+    border-width: 0;
+}
+
+#Shape15 {
+    border-width: 0;
+}
+
+#Layer40 {
+    background-color: #FFFFFF;
+}
+
+#wb_Text55 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+
+#wb_Text55 div {
+    text-align: left;
+}
+
+#wb_Text56 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+
+#wb_Text56 div {
+    text-align: left;
+}
+
+#wb_Form4 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+}
+
+#Editbox10 {
+    border: 1px #A9A9A9 solid;
+    background-color: #FFFFFF;
+    color: #000000;
+
+    font-weight: normal;
+    font-size: 21px;
+    padding: 5px 5px 5px 10px;
+    text-align: left;
+    vertical-align: middle;
+}
+
+#Editbox11 {
+    border: 1px #A9A9A9 solid;
+    background-color: #FFFFFF;
+    color: #000000;
+
+    font-weight: normal;
+    font-size: 21px;
+    padding: 5px 5px 5px 10px;
+    text-align: left;
+    vertical-align: middle;
+}
+
+#Button4 {
+    border: 0px #FF4500 solid;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    background-color: transparent;
+    background-image: url(images/index_Button4_bkgrnd.png);
+    background-repeat: repeat-x;
+    background-position: left top;
+    color: #FFFFFF;
+
+    font-weight: normal;
+    font-size: 21px;
+}
+
+#Editbox12 {
+    border: 1px #A9A9A9 solid;
+    background-color: #FFFFFF;
+    color: #000000;
+
+    font-weight: normal;
+    font-size: 21px;
+    padding: 5px 5px 5px 10px;
+    text-align: left;
+    vertical-align: middle;
+}
+
+#Layer17 {
+    background-color: #FFFFFF;
+}
+
+#wb_Text41 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+
+#wb_Text41 div {
+    text-align: left;
+}
+
+#wb_Text57 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+
+#wb_Text57 div {
+    text-align: left;
+}
+
+#Image39 {
+    border: 0px #000000 solid;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#Image41 {
+    border: 0px #000000 solid;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#Image42 {
+    border: 0px #000000 solid;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#Image43 {
+    border: 0px #000000 solid;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#wb_Text58 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+
+#wb_Text58 div {
+    text-align: left;
+}
+
+#wb_Text59 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+
+#wb_Text59 div {
+    text-align: left;
+}
+
+#wb_Text60 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+
+#wb_Text60 div {
+    text-align: left;
+}
+
+#wb_Text61 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+#wb_Text61 div {
+    text-align: center;
+}
+
+#Layer18 {
+    background-color: transparent;
+}
+
+.ui-widget {
+    font-size: 1em !important;
+}
+
+#jQueryTabs1 .ui-tabs-nav li {
+
+    font-weight: normal;
+    font-style: normal;
+    margin: 0px 2px -1px 0px;
+}
+
+#jQueryTabs1 .ui-tabs-nav li a {
+    padding: 8px 10px 8px 10px;
+}
+
+#Image17 {
+    border: 0px #000000 solid;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#Image23 {
+    border: 0px #000000 solid;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#Image20 {
+    border: 0px #000000 solid;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#Image19 {
+    border: 0px #000000 solid;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#Image21 {
+    border: 0px #000000 solid;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#Image22 {
+    border: 0px #000000 solid;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#Layer16 {
+    background-color: transparent;
+    border: 1px #FC3025 solid;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    border-radius: 20px;
+}
+
+#Image13 {
+    border: 0px #000000 solid;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#wb_Text23 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+
+#wb_Text23 div {
+    text-align: left;
+}
+
+#wb_Shape4 a img {
+    position: absolute;
+}
+
+#wb_Shape4 span {
+    position: absolute;
+}
+
+#wb_Shape4 a .hover {
+    visibility: hidden;
+}
+
+#wb_Shape4 a:hover .hover {
+    visibility: visible;
+}
+
+#wb_Shape4 a:hover span {
+    visibility: hidden;
+}
+
+#Shape4 {
+    border-width: 0;
+}
+
+#Layer41 {
+    background-color: transparent;
+    border: 1px #FC3025 solid;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    border-radius: 20px;
+}
+
+#Image16 {
+    border: 0px #000000 solid;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#wb_Text35 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+
+#wb_Text35 div {
+    text-align: left;
+}
+
+#wb_Shape20 a img {
+    position: absolute;
+}
+
+#wb_Shape20 span {
+    position: absolute;
+}
+
+#wb_Shape20 a .hover {
+    visibility: hidden;
+}
+
+#wb_Shape20 a:hover .hover {
+    visibility: visible;
+}
+
+#wb_Shape20 a:hover span {
+    visibility: hidden;
+}
+
+#Shape20 {
+    border-width: 0;
+}
+
+#Layer6 {
+    background-color: transparent;
+    border: 1px #FC3025 solid;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    border-radius: 20px;
+}
+
+#Image9 {
+    border: 0px #000000 solid;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#wb_Text21 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+
+#wb_Text21 div {
+    text-align: left;
+}
+
+#wb_Shape5 a img {
+    position: absolute;
+}
+
+#wb_Shape5 span {
+    position: absolute;
+}
+
+#wb_Shape5 a .hover {
+    visibility: hidden;
+}
+
+#wb_Shape5 a:hover .hover {
+    visibility: visible;
+}
+
+#wb_Shape5 a:hover span {
+    visibility: hidden;
+}
+
+#Shape5 {
+    border-width: 0;
+}
+
+#Layer30 {
+    background-color: transparent;
+    border: 1px #FC3025 solid;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    border-radius: 20px;
+}
+
+#Image44 {
+    border: 0px #000000 solid;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#wb_Text36 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+
+#wb_Text36 div {
+    text-align: left;
+}
+
+#wb_Shape17 a img {
+    position: absolute;
+}
+
+#wb_Shape17 span {
+    position: absolute;
+}
+
+#wb_Shape17 a .hover {
+    visibility: hidden;
+}
+
+#wb_Shape17 a:hover .hover {
+    visibility: visible;
+}
+
+#wb_Shape17 a:hover span {
+    visibility: hidden;
+}
+
+#Shape17 {
+    border-width: 0;
+}
+
+#Layer42 {
+    background-color: transparent;
+    border: 1px #FC3025 solid;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    border-radius: 20px;
+}
+
+#Image45 {
+    border: 0px #000000 solid;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#wb_Text37 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+
+#wb_Text37 div {
+    text-align: left;
+}
+
+#wb_Shape21 a img {
+    position: absolute;
+}
+
+#wb_Shape21 span {
+    position: absolute;
+}
+
+#wb_Shape21 a .hover {
+    visibility: hidden;
+}
+
+#wb_Shape21 a:hover .hover {
+    visibility: visible;
+}
+
+#wb_Shape21 a:hover span {
+    visibility: hidden;
+}
+
+#Shape21 {
+    border-width: 0;
+}
+
+#Layer43 {
+    background-color: transparent;
+    border: 1px #FC3025 solid;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    border-radius: 20px;
+}
+
+#Image46 {
+    border: 0px #000000 solid;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#wb_Text43 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+
+#wb_Text43 div {
+    text-align: left;
+}
+
+#wb_Shape22 a img {
+    position: absolute;
+}
+
+#wb_Shape22 span {
+    position: absolute;
+}
+
+#wb_Shape22 a .hover {
+    visibility: hidden;
+}
+
+#wb_Shape22 a:hover .hover {
+    visibility: visible;
+}
+
+#wb_Shape22 a:hover span {
+    visibility: hidden;
+}
+
+#Shape22 {
+    border-width: 0;
+}
+
+#wb_Text22 {
+    background-color: transparent;
+    border: 0px #000000 solid;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+#wb_Text22 div {
+    text-align: center;
+}
+
+#fancybox-overlay {
+    z-index: 999999 !important;
+}
+
+#fancybox-wrap {
+    z-index: 9999999 !important;
+}
+
+#Layer9 img {
+    border: 3px solid #fff;
+    border-radius: 50%;
+}
+
+.ui-widget-content {
+    border: none;
+    background: none;
+}
+
+#jQueryTabs1 .ui-tabs-nav li {
+    margin: 3px 0;
+    padding: 0;
+    border: none;
+    border-radius: 0;
+}
+
+#jQueryTabs1 .ui-tabs-nav li a {
+    width: 156px;
+    height: 95px;;
+    padding: 0;
+    margin: 0;
+    border: none;
+    outline: none;
+    background-size: cover;
+    background-color: #fff;
+}
+
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active {
+    background: none;
+}
+
+.ui-tabs .ui-tabs-nav li.ui-tabs-active a, .ui-tabs .ui-tabs-nav .ui-state-hover a {
+    box-shadow: inset 0px 0px 0px 7px rgba(255, 255, 255, 0.5);
+    transition: box-shadow 0.2s;
+}
+
+a#ui-id-1 {
+    background: url('images/slide1.jpg') no-repeat center;
+}
+
+a#ui-id-2 {
+    background: url('images/slide2.jpg') no-repeat center;
+}
+
+a#ui-id-3 {
+    background: url('images/slide3.jpg') no-repeat center;
+}
+
+a#ui-id-4 {
+    background: url('images/slide4.jpg') no-repeat center;
+}
+
+a#ui-id-5 {
+    background: url('images/slide5.jpg') no-repeat center;
+}
+
+a#ui-id-6 {
+    background: url('images/slide6.jpg') no-repeat center;
+}
+
+a#ui-id-7 {
+    background: url('images/prod1.jpg') no-repeat center;
+}
+
+a#ui-id-8 {
+    background: url('images/prod2.jpg') no-repeat center;
+}
+
+a#ui-id-9 {
+    background: url('images/prod3.jpg') no-repeat center;
+}
+
+a#ui-id-10 {
+    background: url('images/prod4.jpg') no-repeat center;
+}
+
+a#ui-id-11 {
+    background: url('images/prod5.jpg') no-repeat center;
+}
+
+a#ui-id-12 {
+    background: url('images/prod6.jpg') no-repeat center;
+}
+
+#Layer36, #Layer38, #Layer39 {
+    opacity: 0;
+}
+
+#Layer36:hover, #Layer38:hover, #Layer39:hover {
+    opacity: 0.7;
+}
+
+#wb_Text5 span, #wb_Text4 span {
+    padding: 5px 10px;
+    background: rgba(255, 255, 255, 0.85);
+}
+
+div#wb_Text5 {
+    line-height: 51px;
+}
+
+#Button1:hover, #Button3:hover, #Button4:hover {
+    opacity: 0.9;
+}
+
+
+#jQueryTabs1 img {
+    display: block;
+    padding: 0;
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+    border-radius: 0;
+}
+
+#jQueryTabs1 ul {
+    display: flex;
+    padding: 0;
+    /*height: 95px;*/
+    justify-content: space-between;
+    flex-wrap: wrap;
+    border: none;
+    border-radius: 0;
+    background: none;
+}
+
+.ui-helper-clearfix:before, .ui-helper-clearfix:after {
+    display: none;
+}
+
+/**** Ассортимент ****/
+.product-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    /*grid-template-rows: 1fr 1fr 1fr;*/
+    grid-gap: 16px;
+}
+
+.product {
+    display: flex;
+    padding: 10px 10px 15px;
+    flex-direction: column;
+    justify-content: space-between;
+
+    border: 1px #FC3025 solid;
+    border-radius: 20px;
+    z-index: 40;
+}
+
+.product img {
+    width: 450px;
+    height: 300px;
+    border-radius: 12px;
+}
+
+.product p {
+    margin: 0;
+    font-size: 14px;
+    line-height: 1.3;
+}
+
+.product .desc {
+    display: flex;
+    margin: 10px 0;
+    flex-direction: column;
+    flex: 1;
+}
+
+.product span {
+    display: block;
+}
+
+.product .title {
+    margin-top: 10px;
+    font-size: 21px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #FC2014;
+}
+
+.product .gost {
+    margin: 10px 0;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.product a {
+    display: block;
+    padding: 10px 40px;
+    bottom: 0;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 8px;
+    background: rgb(252, 34, 18);
+    background: linear-gradient(0deg, rgb(252, 33, 20) 0%, rgb(255, 67, 0) 100%);
+    color: white;
+}
+
+.product a:hover {
+    background: linear-gradient(0deg, rgb(252, 33, 20) 0%, rgb(255, 82, 18) 100%);
+}
+
+
+/* Swiper slider */
+.swiper-container {
+    width: 100%;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.swiper-slide img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.gallery-top {
+    height: 500px;
+    width: 100%;
+}
+
+.gallery-thumbs {
+    height: 110px;
+    box-sizing: border-box;
+    padding: 5px 0;
+}
+
+.gallery-thumbs .swiper-slide {
+    height: 100%;
+    opacity: 0.4;
+}
+
+.gallery-thumbs .swiper-slide-thumb-active {
+    opacity: 1;
+}
+
+/*.swiper-lazy-preloader-white:after {*/
+/*   background-image: url("data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+PHN2ZyB4bWxuczpzdmc9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjAiIHdpZHRoPSI2NHB4IiBoZWlnaHQ9IjY0cHgiIHZpZXdCb3g9IjAgMCAxMjggMTI4IiB4bWw6c3BhY2U9InByZXNlcnZlIj48Zz48cGF0aCBkPSJNOTcuNjMgOC4yM2E3LjM4IDcuMzggMCAwIDEgMi43IDEwLjA3TDg5LjIgMzcuNTdhNy4zOCA3LjM4IDAgMSAxLTEyLjc3LTcuMzdsMTEuMTItMTkuMjdhNy4zOCA3LjM4IDAgMCAxIDEwLjA4LTIuN3oiIGZpbGw9IiMwMDAwMDAiIGZpbGwtb3BhY2l0eT0iMSIvPjxwYXRoIGQ9Ik05Ny42MyA4LjIzYTcuMzggNy4zOCAwIDAgMSAyLjcgMTAuMDdMODkuMiAzNy41N2E3LjM4IDcuMzggMCAxIDEtMTIuNzctNy4zN2wxMS4xMi0xOS4yN2E3LjM4IDcuMzggMCAwIDEgMTAuMDgtMi43eiIgZmlsbD0iI2U1ZTVlNSIgZmlsbC1vcGFjaXR5PSIwLjEiIHRyYW5zZm9ybT0icm90YXRlKDMwIDY0IDY0KSIvPjxwYXRoIGQ9Ik05Ny42MyA4LjIzYTcuMzggNy4zOCAwIDAgMSAyLjcgMTAuMDdMODkuMiAzNy41N2E3LjM4IDcuMzggMCAxIDEtMTIuNzctNy4zN2wxMS4xMi0xOS4yN2E3LjM4IDcuMzggMCAwIDEgMTAuMDgtMi43eiIgZmlsbD0iI2U1ZTVlNSIgZmlsbC1vcGFjaXR5PSIwLjEiIHRyYW5zZm9ybT0icm90YXRlKDYwIDY0IDY0KSIvPjxwYXRoIGQ9Ik05Ny42MyA4LjIzYTcuMzggNy4zOCAwIDAgMSAyLjcgMTAuMDdMODkuMiAzNy41N2E3LjM4IDcuMzggMCAxIDEtMTIuNzctNy4zN2wxMS4xMi0xOS4yN2E3LjM4IDcuMzggMCAwIDEgMTAuMDgtMi43eiIgZmlsbD0iI2U1ZTVlNSIgZmlsbC1vcGFjaXR5PSIwLjEiIHRyYW5zZm9ybT0icm90YXRlKDkwIDY0IDY0KSIvPjxwYXRoIGQ9Ik05Ny42MyA4LjIzYTcuMzggNy4zOCAwIDAgMSAyLjcgMTAuMDdMODkuMiAzNy41N2E3LjM4IDcuMzggMCAxIDEtMTIuNzctNy4zN2wxMS4xMi0xOS4yN2E3LjM4IDcuMzggMCAwIDEgMTAuMDgtMi43eiIgZmlsbD0iI2NlY2VjZSIgZmlsbC1vcGFjaXR5PSIwLjE5IiB0cmFuc2Zvcm09InJvdGF0ZSgxMjAgNjQgNjQpIi8+PHBhdGggZD0iTTk3LjYzIDguMjNhNy4zOCA3LjM4IDAgMCAxIDIuNyAxMC4wN0w4OS4yIDM3LjU3YTcuMzggNy4zOCAwIDEgMS0xMi43Ny03LjM3bDExLjEyLTE5LjI3YTcuMzggNy4zOCAwIDAgMSAxMC4wOC0yLjd6IiBmaWxsPSIjYjdiN2I3IiBmaWxsLW9wYWNpdHk9IjAuMjgiIHRyYW5zZm9ybT0icm90YXRlKDE1MCA2NCA2NCkiLz48cGF0aCBkPSJNOTcuNjMgOC4yM2E3LjM4IDcuMzggMCAwIDEgMi43IDEwLjA3TDg5LjIgMzcuNTdhNy4zOCA3LjM4IDAgMSAxLTEyLjc3LTcuMzdsMTEuMTItMTkuMjdhNy4zOCA3LjM4IDAgMCAxIDEwLjA4LTIuN3oiIGZpbGw9IiM5ZjlmOWYiIGZpbGwtb3BhY2l0eT0iMC4zOCIgdHJhbnNmb3JtPSJyb3RhdGUoMTgwIDY0IDY0KSIvPjxwYXRoIGQ9Ik05Ny42MyA4LjIzYTcuMzggNy4zOCAwIDAgMSAyLjcgMTAuMDdMODkuMiAzNy41N2E3LjM4IDcuMzggMCAxIDEtMTIuNzctNy4zN2wxMS4xMi0xOS4yN2E3LjM4IDcuMzggMCAwIDEgMTAuMDgtMi43eiIgZmlsbD0iIzg5ODk4OSIgZmlsbC1vcGFjaXR5PSIwLjQ2IiB0cmFuc2Zvcm09InJvdGF0ZSgyMTAgNjQgNjQpIi8+PHBhdGggZD0iTTk3LjYzIDguMjNhNy4zOCA3LjM4IDAgMCAxIDIuNyAxMC4wN0w4OS4yIDM3LjU3YTcuMzggNy4zOCAwIDEgMS0xMi43Ny03LjM3bDExLjEyLTE5LjI3YTcuMzggNy4zOCAwIDAgMSAxMC4wOC0yLjd6IiBmaWxsPSIjNzI3MjcyIiBmaWxsLW9wYWNpdHk9IjAuNTUiIHRyYW5zZm9ybT0icm90YXRlKDI0MCA2NCA2NCkiLz48cGF0aCBkPSJNOTcuNjMgOC4yM2E3LjM4IDcuMzggMCAwIDEgMi43IDEwLjA3TDg5LjIgMzcuNTdhNy4zOCA3LjM4IDAgMSAxLTEyLjc3LTcuMzdsMTEuMTItMTkuMjdhNy4zOCA3LjM4IDAgMCAxIDEwLjA4LTIuN3oiIGZpbGw9IiM1YzVjNWMiIGZpbGwtb3BhY2l0eT0iMC42NCIgdHJhbnNmb3JtPSJyb3RhdGUoMjcwIDY0IDY0KSIvPjxwYXRoIGQ9Ik05Ny42MyA4LjIzYTcuMzggNy4zOCAwIDAgMSAyLjcgMTAuMDdMODkuMiAzNy41N2E3LjM4IDcuMzggMCAxIDEtMTIuNzctNy4zN2wxMS4xMi0xOS4yN2E3LjM4IDcuMzggMCAwIDEgMTAuMDgtMi43eiIgZmlsbD0iIzQ0NDQ0NCIgZmlsbC1vcGFjaXR5PSIwLjczIiB0cmFuc2Zvcm09InJvdGF0ZSgzMDAgNjQgNjQpIi8+PHBhdGggZD0iTTk3LjYzIDguMjNhNy4zOCA3LjM4IDAgMCAxIDIuNyAxMC4wN0w4OS4yIDM3LjU3YTcuMzggNy4zOCAwIDEgMS0xMi43Ny03LjM3bDExLjEyLTE5LjI3YTcuMzggNy4zOCAwIDAgMSAxMC4wOC0yLjd6IiBmaWxsPSIjMmUyZTJlIiBmaWxsLW9wYWNpdHk9IjAuODIiIHRyYW5zZm9ybT0icm90YXRlKDMzMCA2NCA2NCkiLz48YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InJvdGF0ZSIgdmFsdWVzPSIwIDY0IDY0OzMwIDY0IDY0OzYwIDY0IDY0OzkwIDY0IDY0OzEyMCA2NCA2NDsxNTAgNjQgNjQ7MTgwIDY0IDY0OzIxMCA2NCA2NDsyNDAgNjQgNjQ7MjcwIDY0IDY0OzMwMCA2NCA2NDszMzAgNjQgNjQiIGNhbGNNb2RlPSJkaXNjcmV0ZSIgZHVyPSI5NjBtcyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiPjwvYW5pbWF0ZVRyYW5zZm9ybT48L2c+PC9zdmc+");*/
+/*}*/

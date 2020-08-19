@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="303.35092mm"
+   height="63.531601mm"
+   viewBox="0 0 303.35092 63.531601"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="top-text.svg"
+   inkscape:export-filename="/var/www/din-mel.ru/images/top-text.png"
+   inkscape:export-xdpi="72"
+   inkscape:export-ydpi="72">
+  <defs
+     id="defs2">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter878">
+      <feFlood
+         flood-opacity="0.8"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood868" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite870" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0"
+         result="blur"
+         id="feGaussianBlur872" />
+      <feOffset
+         dx="0"
+         dy="1"
+         result="offset"
+         id="feOffset874" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite876" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1678">
+      <rect
+         style="fill:#ffffff;fill-opacity:0.85098039;stroke-width:0.4820894"
+         id="rect1680"
+         width="303.35092"
+         height="63.531601"
+         x="-46.229"
+         y="65.493721"
+         ry="0" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter988">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood978" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite980" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0"
+         result="blur"
+         id="feGaussianBlur982" />
+      <feOffset
+         dx="0"
+         dy="0.9"
+         result="offset"
+         id="feOffset984" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite986" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter988-0">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         id="feFlood978-6" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite980-8" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0"
+         result="blur"
+         id="feGaussianBlur982-7" />
+      <feOffset
+         dx="0"
+         dy="0.9"
+         result="offset"
+         id="feOffset984-9" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite986-0" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter866">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood856" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite858" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0"
+         result="blur"
+         id="feGaussianBlur860" />
+      <feOffset
+         dx="0"
+         dy="0.5"
+         result="offset"
+         id="feOffset862" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="fbSourceGraphic"
+         id="feComposite864" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix905" />
+      <feFlood
+         id="feFlood907"
+         flood-opacity="0.498039"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite909"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur911"
+         in="composite1"
+         stdDeviation="0"
+         result="blur" />
+      <feOffset
+         id="feOffset913"
+         dx="0"
+         dy="0.7"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite915"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter879">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood869" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite871" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0"
+         result="blur"
+         id="feGaussianBlur873" />
+      <feOffset
+         dx="0"
+         dy="0.5"
+         result="offset"
+         id="feOffset875" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="fbSourceGraphic"
+         id="feComposite877" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix917" />
+      <feFlood
+         id="feFlood919"
+         flood-opacity="0.498039"
+         flood-color="rgb(255,255,255)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite921"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur923"
+         in="composite1"
+         stdDeviation="0"
+         result="blur" />
+      <feOffset
+         id="feOffset925"
+         dx="0"
+         dy="0.7"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite927"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#cbe7e5"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="479.04872"
+     inkscape:cy="134.51122"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g1674"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="-0.053990262,74.267194"
+       orientation="1,0"
+       id="guide924"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="3.9903007,63.597357"
+       orientation="0,1"
+       id="guide926"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="14.612426,-0.03373508"
+       orientation="0,1"
+       id="guide928"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="303.33563,36.831918"
+       orientation="1,0"
+       id="guide930"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(46.229,-65.493721)">
+    <g
+       id="g1674"
+       clip-path="url(#clipPath1678)"
+       style="">
+      <g
+         id="g1355"
+         style="">
+        <rect
+           style="fill:#ffffff;fill-opacity:0.39215687;stroke-width:0.34764743;"
+           id="rect823"
+           width="303.35092"
+           height="43.297665"
+           x="-46.229"
+           y="65.493721" />
+        <rect
+           style="fill:#ffffff;fill-opacity:0.39215687;stroke-width:0.2115715;"
+           id="rect823-5"
+           width="303.35092"
+           height="16.036173"
+           x="-46.229"
+           y="113.02472" />
+      </g>
+      <g
+         id="text817"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;filter:url(#filter866)"
+         aria-label="МУКА ВЫСШЕЙ КАТЕГОРИИ ОПТОМ ОТ ПРОИЗВОДИТЕЛЯ В КРАСНОДАРЕ Производство пшеничной муки, манной крупы и кормовых отрубей"
+         transform="translate(-13.985119,1.889881)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07000434;"
+           x="24.597425"
+           y="37.619144"
+           id="text934"><tspan
+             sodipodi:role="line"
+             id="tspan932"
+             x="24.597425"
+             y="46.790375"
+             style="stroke-width:0.07000434;" /></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07000434;"
+           x="-29.118383"
+           y="81.483574"
+           id="text938"><tspan
+             sodipodi:role="line"
+             id="tspan936"
+             x="-29.118383"
+             y="81.483574"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.69444466px;font-family:Fregat;-inkscape-font-specification:'Fregat Bold';fill:#fc2014;fill-opacity:1;stroke-width:0.07000434;"
+             dy="6.5">МУКА ВЫСШЕЙ <tspan
+   style="font-size:24.41222222px;"
+   id="tspan858">КАТЕГОРИИ</tspan></tspan><tspan
+             sodipodi:role="line"
+             x="-29.118383"
+             y="103.6358"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.52222252px;font-family:Fregat;-inkscape-font-specification:Fregat;fill:#1e1e1e;fill-opacity:1;stroke-width:0.07000434;"
+             id="tspan940">ОПТОМ ОТ ПРОИЗВОДИТЕЛЯ В КРАСНОДАРЕ</tspan></text>
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot1254"
+           style="fill:black;fill-opacity:1;stroke:none;font-family:'Courier 10 Pitch';font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Courier 10 Pitch';font-stretch:normal;font-variant:normal;"><flowRegion
+             id="flowRegion1256"
+             style=""><rect
+               id="rect1258"
+               width="204.05081"
+               height="41.416256"
+               x="129.29953"
+               y="96.677773"
+               style="" /></flowRegion><flowPara
+             id="flowPara1260" /></flowRoot>      </g>
+      <g
+         id="text817-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+         aria-label="МУКА ВЫСШЕЙ КАТЕГОРИИ ОПТОМ ОТ ПРОИЗВОДИТЕЛЯ В КРАСНОДАРЕ Производство пшеничной муки, манной крупы и кормовых отрубей"
+         transform="translate(-14.553778,22.59752)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07000434;"
+           x="24.597425"
+           y="37.619144"
+           id="text934-3"><tspan
+             sodipodi:role="line"
+             id="tspan932-3"
+             x="24.597425"
+             y="46.790375"
+             style="stroke-width:0.07000434;" /></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07000434;filter:url(#filter879)"
+           x="-29.118383"
+           y="102.65026"
+           id="text938-7"><tspan
+             sodipodi:role="line"
+             x="-29.118383"
+             y="102.65026"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.30111178px;font-family:Fregat;-inkscape-font-specification:Fregat;stroke-width:0.07000434;fill:#1e1e1e;fill-opacity:1;"
+             id="tspan940-2">Производство пшеничной муки, манной крупы и кормовых отрубей</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
